@@ -28,3 +28,5 @@ PHP, MySQL, HTML, CSS, and XAMPP.
 
 ## Project Status
 An academic prototype for local demonstration. Further testing and security improvements are needed before live deployment.
+
+Further testing and development can help address the current limitations.
