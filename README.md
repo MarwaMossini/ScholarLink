@@ -1,6 +1,14 @@
 # ScholarLink
 
-A unified scholarship website developed by a team of five students for Database Management Systems, CSCI2001 (DBMS), in Spring 2025.
+An academic scholarship website that brings together students, mentors, universities, and donors.
+
+## Academic Context
+- Course: Database Management Systems (CSCI2001), Asian University for Women (AUW).
+- Semester: Spring 2025.
+- Team: Five students.
+
+## My Contribution
+I worked with my teammates on the rich picture showing the platform's users and their relationships. I also contributed to the final project report.
 
 ## Features
 - Search universities, programs, and scholarships.
